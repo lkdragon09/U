@@ -50,4 +50,3 @@ svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/l
 # git clone https://github.com/sbwml/luci-app-mosdns package/mosdns
 # git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
 
-
